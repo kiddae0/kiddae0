@@ -1,10 +1,10 @@
-# 💻 Adam Abidi - Computer Science Student
+# 💻 Adam Abidi - Software Architecture Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/adam-abidi-b002712a4/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/kiddae0)
 ![Profile Views](https://komarev.com/ghpvc/?username=kiddae0&color=green)
 
-Welcome to my GitHub profile! I'm Adam Abidi, a 20-year-old computer science student at ESPRIT, passionate about development and new technologies. I actively develop my skills through online courses and specialized training.
+Welcome to my GitHub profile! I'm Adam Abidi, a Software Architecture Engineer at ESPRIT, currently in my 2nd engineering cycle. I'm passionate about software architecture, system design, and modern development technologies. I actively develop my skills through advanced courses and specialized training in software engineering.
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -20,6 +20,12 @@ A responsive portfolio website built with modern web technologies:
 - **Version Control**: Git
 
 ## 💡 Skills and Expertise
+
+### 🏗️ **Software Architecture**
+![System Design](https://img.shields.io/badge/System_Design-black?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-black?style=flat)
+![API Design](https://img.shields.io/badge/API_Design-black?style=flat)
+![Scalable Architecture](https://img.shields.io/badge/Scalable_Architecture-black?style=flat)
 
 ### 🚀 **Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -56,6 +62,11 @@ A responsive portfolio website built with modern web technologies:
 
 ## 🌟 **Recent Achievements**
 
+### 🏗️ **Software Architecture & Engineering**
+- **2nd Engineering Cycle**: Successfully progressed to advanced software engineering studies
+- **System Design**: Developing expertise in scalable architecture and microservices
+- **API Integration**: Implemented complex integrations with GitHub API and third-party services
+
 ### 🎨 **Modern Web Development**
 - Built a responsive portfolio with **Tailwind CSS** and **SCSS**
 - Implemented interactive features like **chat widgets** and **meeting schedulers**
@@ -71,6 +82,7 @@ A responsive portfolio website built with modern web technologies:
 - **CCNA Certified**: Demonstrating a solid understanding of networking concepts, enhancing my ability to optimize application performance and troubleshoot network issues.
 
 ## 🌱 Currently Learning
+- **Software Architecture**: System design patterns, microservices architecture, scalable solutions
 - **Advanced JavaScript**: ES6+ features, async/await, modern frameworks
 - **Web APIs**: GitHub API, WakaTime integration, third-party services
 - **Performance Optimization**: Code splitting, lazy loading, bundle optimization
