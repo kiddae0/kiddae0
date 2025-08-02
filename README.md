@@ -14,7 +14,12 @@
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-**Welcome to my GitHub profile!** I'm Adam Abidi, a Software Architecture Engineer at ESPRIT, currently in my 2nd engineering cycle. I'm passionate about software architecture, system design, and modern development technologies. I actively develop my skills through advanced courses and specialized training in software engineering.
+### 🚀 **Welcome to my GitHub profile!** 
+
+I'm **Adam Abidi**, a Software Architecture Engineer at ESPRIT, currently in my 2nd engineering cycle. I'm passionate about software architecture, system design, and modern development technologies. I actively develop my skills through advanced courses and specialized training in software engineering.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://adam-abidi-portfolio.netlify.app)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/your-resume-link)
 
 </div>
 
@@ -23,7 +28,13 @@
 ## 🚀 **Featured Projects**
 
 <details>
-<summary><b>🛒 Shot Shop - E-commerce Platform</b></summary>
+<summary><b>🛒 Shot Shop - E-commerce Platform</b> <kbd>Click to expand</kbd></summary>
+
+<div align="center">
+
+![E-commerce](https://img.shields.io/badge/E--commerce-Platform-FF6B35?style=for-the-badge&logo=shopify&logoColor=white)
+
+</div>
 
 A modern full-stack e-commerce application with advanced features:
 
@@ -42,10 +53,23 @@ A modern full-stack e-commerce application with advanced features:
 | **Analytics** | Google Analytics integration |
 | **Deployment** | Docker, Docker Compose |
 
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://shot-shop-demo.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiddae0/shot-shop)
+
+</div>
+
 </details>
 
 <details>
-<summary><b>🎵 Audiobook Creator - AI-Powered Audio Generator</b></summary>
+<summary><b>🎵 Audiobook Creator - AI-Powered Audio Generator</b> <kbd>Click to expand</kbd></summary>
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/AI--Powered-Audio_Generator-9C27B0?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 An intelligent audiobook generation system with advanced AI features:
 
@@ -61,10 +85,23 @@ An intelligent audiobook generation system with advanced AI features:
 | **Visualization** | Plotly |
 | **Authentication** | JWT, bcrypt, passlib |
 
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=streamlit&logoColor=white)](https://audiobook-creator.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiddae0/audiobook-creator)
+
+</div>
+
 </details>
 
 <details>
-<summary><b>🎨 Modern Portfolio Website</b></summary>
+<summary><b>🎨 Modern Portfolio Website</b> <kbd>Click to expand</kbd></summary>
+
+<div align="center">
+
+![Portfolio](https://img.shields.io/badge/Modern-Portfolio-FF4088?style=for-the-badge&logo=portfolio&logoColor=white)
+
+</div>
 
 A responsive portfolio website with interactive features:
 
@@ -77,10 +114,23 @@ A responsive portfolio website with interactive features:
 | **Build Tools** | PostCSS, Autoprefixer |
 | **Version Control** | Git |
 
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white)](https://adam-abidi-portfolio.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiddae0/portfolio)
+
+</div>
+
 </details>
 
 <details>
-<summary><b>🎮 JavaScript Mini Projects Collection</b></summary>
+<summary><b>🎮 JavaScript Mini Projects Collection</b> <kbd>Click to expand</kbd></summary>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Projects-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
 
 A comprehensive collection of 11 interactive web applications:
 
@@ -92,12 +142,24 @@ A comprehensive collection of 11 interactive web applications:
 | Temperature Converter, Weather App | API integration, Data visualization |
 
 **Technologies**: HTML5, CSS3, JavaScript (ES6+)  
-**Live Demo**: [Weather App](https://adamweatherapp.netlify.app)
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white)](https://adamweatherapp.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiddae0/javascript-mini-projects)
+
+</div>
 
 </details>
 
 <details>
-<summary><b>🖥️ JavaFX Desktop Application</b></summary>
+<summary><b>🖥️ JavaFX Desktop Application</b> <kbd>Click to expand</kbd></summary>
+
+<div align="center">
+
+![JavaFX](https://img.shields.io/badge/JavaFX-Desktop_App-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
 
 A comprehensive desktop application with modern UI:
 
@@ -116,10 +178,23 @@ A comprehensive desktop application with modern UI:
 | **QR Codes** | ZXing library |
 | **Real-time** | WebSocket support |
 
+<div align="center">
+
+[![Download](https://img.shields.io/badge/Download-JAR_File-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/kiddae0/javafx-app/releases)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiddae0/javafx-app)
+
+</div>
+
 </details>
 
 <details>
-<summary><b>🔍 Face Detection & Age/Gender Recognition</b></summary>
+<summary><b>🔍 Face Detection & Age/Gender Recognition</b> <kbd>Click to expand</kbd></summary>
+
+<div align="center">
+
+![AI Vision](https://img.shields.io/badge/AI_Vision-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
 
 An AI-powered computer vision application:
 
@@ -129,6 +204,13 @@ An AI-powered computer vision application:
 | **Machine Learning** | TensorFlow 2.13, NumPy |
 | **Model Management** | gdown for model downloads |
 | **Real-time Processing** | Live video capture and analysis |
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=python&logoColor=white)](https://face-detection-demo.herokuapp.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiddae0/face-detection)
+
+</div>
 
 </details>
 
@@ -291,6 +373,8 @@ An AI-powered computer vision application:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kiddae0&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E)
 
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=kiddae0&theme=radical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=8B949E)
+
 </div>
 
 ---
@@ -302,6 +386,7 @@ An AI-powered computer vision application:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.abidi@esprit.tn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-abidi-b002712a4/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiddae0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://adam-abidi-portfolio.netlify.app)
 
 **Feel free to explore my repositories and connect with me for collaboration opportunities, internships, or any exciting tech discussions!**
 
